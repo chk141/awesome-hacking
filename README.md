@@ -1,10 +1,10 @@
 # Awesome Hacking [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome Hacking. Inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning/)
+精选的骇客精选清单。 受到[awesome-machine-learning]的启发(https://github.com/josephmisiti/awesome-machine-learning/)
 
-If you want to contribute to this list (please do), send me a pull request or contact me [@carpedm20](https://twitter.com/carpedm20)
+如果您想对此列表做出贡献（请这样做），请向我发送请求请求或与我联系[@ carpedm20](https://twitter.com/carpedm20)
 
-For a list of free hacking books available for download, go [here](https://github.com/Hack-with-Github/Free-Security-eBooks)
+有关可下载的免费黑客书籍的列表，请访问[here](https://github.com/Hack-with-Github/Free-Security-eBooks)
 
 
 ## Table of Contents
